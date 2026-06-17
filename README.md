@@ -11,7 +11,7 @@ Interactive 3D particle scenes controlled by webcam hand gestures.
 
 ## Preview
 
-![Nebula Love Pwn Camera Edition](preview/Screenshot%202026-06-17%20085223.png)
+![Nebula Love Pwn Camera Edition](/Screenshot%202026-06-17%20085223.png)
 
 ## Scene Map
 
