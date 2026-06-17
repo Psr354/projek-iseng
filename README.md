@@ -9,6 +9,10 @@ Interactive 3D particle scenes controlled by webcam hand gestures.
 - Manual controls for rotating, moving, zooming, and mirroring the scene
 - A custom love scene with a heart, `WILL U BE MINE?`, sparkle motion, and confetti
 
+## Preview
+
+![Nebula Love Pwn Camera Edition](preview/Screenshot%202026-06-17%20085223.png)
+
 ## Scene Map
 
 | Gesture | Scene |
